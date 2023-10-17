@@ -237,7 +237,7 @@ a {
     }
 
     .show {
-        height: 120vh !important ;
+        height: 117.5vh !important ;
         width: calc(var(--nav-width) + 156px)
     }
 
