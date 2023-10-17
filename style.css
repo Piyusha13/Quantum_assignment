@@ -79,7 +79,7 @@ a {
     top: 0;
     left: 0%;
     width: var(--nav-width);
-    height: 115vh !important;
+    height: 110vh !important;
     background-color: var(--sidebar-color);
     padding: .5rem 1rem 0 0;
     transition: .5s;
